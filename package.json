@@ -38,7 +38,7 @@
       "aurelia-polyfills": "^1.1.1"
     }
   },
-  "dependencies": {
+  "peerDependencies": {
     "aurelia-logging": "^1.0.0",
     "aurelia-metadata": "^1.0.0",
     "aurelia-pal": "^1.0.0",
